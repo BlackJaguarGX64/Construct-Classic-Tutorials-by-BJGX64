@@ -1,6 +1,6 @@
 # Construct Classic Tutorials by Black Jaguar GX-64
 
-This Page Repository is Scirra's Construct Classic Game Developing 2D Platformer Guide.
+Scirra's Construct Classic Game Developing 2D Platformer Guide.
 
 
 ## Installation:
